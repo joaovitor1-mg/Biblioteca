@@ -1,0 +1,10 @@
+
+biblioteca.json
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+.idea/
+*.swp
